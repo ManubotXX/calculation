@@ -20,3 +20,6 @@ Si quieres ejecutar este proyecto en tu máquina (especialmente en Mac):
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/TU_USUARIO/NOMBRE_REPO.git](https://github.com/TU_USUARIO/NOMBRE_REPO.git)
+
+Demo
+http://localhost:5173/
